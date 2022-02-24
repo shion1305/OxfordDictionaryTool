@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>console</headerType>
+  <jar>C:\Users\shion\IdeaProjects\OxfordDictionaryTool\out\artifacts\OxfordDictionaryTool_jar\OxfordDictionaryTool.jar</jar>
+  <outfile>C:\Users\shion\IdeaProjects\OxfordDictionaryTool\OxfordDictionaryTool.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon></icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.8.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>jdkOnly</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+    <opt>--module-path C:\Users\shion\javafx-sdk-17.0.1\lib --add-modules javafx.controls,javafx.fxml,javafx.media -Dfile.encoding=UTF-8</opt>
+  </jre>
+</launch4jConfig>

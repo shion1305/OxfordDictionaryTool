@@ -1,0 +1,58 @@
+{
+  "id": "oppressively",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "oppressively",
+      "language": "en-us",
+      "lexicalEntries": [
+        {
+          "derivativeOf": [
+            {
+              "id": "oppressive",
+              "text": "oppressive"
+            }
+          ],
+          "entries": [
+            {
+              "pronunciations": [
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "respell",
+                  "phoneticSpelling": "əˈpresivlē"
+                },
+                {
+                  "dialects": [
+                    "American English"
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "əˈprɛsɪvli"
+                }
+              ],
+              "senses": [
+                {
+                  "id": "m_en_gbus0723300.021"
+                }
+              ]
+            }
+          ],
+          "language": "en-us",
+          "lexicalCategory": {
+            "id": "adverb",
+            "text": "Adverb"
+          },
+          "text": "oppressively"
+        }
+      ],
+      "type": "headword",
+      "word": "oppressively"
+    }
+  ],
+  "word": "oppressively"
+}
