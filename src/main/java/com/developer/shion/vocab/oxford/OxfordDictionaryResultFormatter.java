@@ -130,7 +130,7 @@ class OxfordDictionaryResultFormatter {
                         } else if (data[i].lexicalEntries[i1].entries[i2].senses[i3].crossReferenceMarkers != null) {
                             out.append(data[i].lexicalEntries[i1].entries[i2].senses[i3].crossReferenceMarkers[0]).append("\n");
                         } else {
-                            out.append("NULL DEFINITION OR CROSS REFERENCE MARKERS\n")
+                            out.append("NULL DEFINITION OR CROSS REFERENCE MARKERS\n");
                             continue;
                         }
                         if (data[i].lexicalEntries[i1].entries[i2].senses[i3].subSenses != null) {
